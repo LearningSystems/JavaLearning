@@ -1,4 +1,4 @@
-package com.javalearning.helloworld.com.javalearning.calculations;
+package com.javalearning.calculations;
 
 public class Calculator {
 
@@ -14,6 +14,5 @@ public class Calculator {
 
         int result = calculator.add(var1, var2);
         System.out.println(result);
-
     }
-}
+    }
